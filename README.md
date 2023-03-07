@@ -10,15 +10,23 @@
 * Gosto de Aprender sobre assuntos que não domino ou que já domino, mas que tenho certos déficits !!!
 * Gosto de Games 🕹
 ##
-### Minhas pontuações e linguagens 🤓
+### Minhas pontuações e especialidades 🤓
 <br>
 <div style="display: inline_block">
   <img src="https://github-readme-stats.vercel.app/api?username=AdrianRezendeDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianRezendeDev&theme=tokyonight">
 </div>
-
+<br>
 <div>
-     <img height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
+            <img height="80", width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+            <img height="80", width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
+            <img height="80", width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+            <img height="80", width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+            <img height="80", width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+            <img height="80", width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+            <img height="80", width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+            <img height="80", width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+            <img height="80", width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 </div>
 
 ## Meus contatos 📱
