@@ -1,15 +1,15 @@
 ### Olá terráqueos 👽, aqui quem fala é o seu Dev favorito !!!
 -----------------------------------------------------------------------------------------------
-### Minhas características 😁
+### Minhas características 
 
-- Prestativo 😁
-- Aprendo Rápido 🤓
-- Sou bem humorado (porém sou meio timido 😳)
-- Gosto de trabalhar em grupo 
-- Sou paciente
-- Gosto de ler 📗
-- Gosto de Aprender sobre assuntos que não domino ou que já domino, mas que tenho certos déficits !!!
-- Gosto de Games 🕹
+* Prestativo 😁
+* Aprendo Rápido 🤓
+* Sou bem humorado (porém sou meio timido 😳)
+* Gosto de trabalhar em grupo 
+* Sou paciente
+* Gosto de ler 📗
+* Gosto de Aprender sobre assuntos que não domino ou que já domino, mas que tenho certos déficits !!!
+* Gosto de Games 🕹
 -----------------------------------------------------------------------------------------------
 ### Minhas pontuações, linguagens🤓
 <br>
