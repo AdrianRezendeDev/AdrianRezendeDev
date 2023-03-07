@@ -35,8 +35,11 @@
 <div>
   <a href="mailto:adripropostas@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://discord.gg/3Q7s2mcj9p" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="index.html" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="AVISO!!!!! download" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
+
+##
+
  <div>
   <img src="https://github.com/AdrianRezendeDev/AdrianRezendeDev/blob/output/github-contribution-grid-snake.svg">
  </div>
