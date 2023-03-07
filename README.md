@@ -17,6 +17,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianRezendeDev&theme=tokyonight">
 </div>
 
+<div>
+     <img height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
+</div>
+
 ## Meus contatos 📱
 
 <div>
