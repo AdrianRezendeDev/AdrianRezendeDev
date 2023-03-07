@@ -11,6 +11,6 @@
 </div>
  ---------------------------------------------------------------------------------------------------------------------------------------
  <div>
-![Snake animation](https://github.com/AdrianRezendeDev/AdrianRezendeDev/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/AdrianRezendeDev/AdrianRezendeDev/blob/output/github-contribution-grid-snake.svg">
  </div>
 
