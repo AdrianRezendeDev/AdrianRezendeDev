@@ -18,8 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianRezendeDev&theme=tokyonight">
 </div>
 <br>
-<div>
-            
+<div> 
             <img height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
             <img height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
             <img height="40", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
