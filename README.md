@@ -1,4 +1,4 @@
-## Olá terráqueos 👽, Aqui quem fala é o seu Dev favorito !!!
+## Olá terráqueos 👽 Aqui quem fala é o seu Dev favorito !!!
 ### Minhas características 🔽
 
 * Atualmente estou pretendendo ser um programador Full-Stack 👾
